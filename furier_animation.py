@@ -1,6 +1,10 @@
 import numpy as np
 from manim import *
 
+#СВЯЗАТЬ С РЕЧЬЮ И МУЗЫКОЙ
+
+
+
 class FourierAnimation(Scene):
     def construct(self):
         # ===== 1. ЗАГОЛОВОК =====
